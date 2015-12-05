@@ -1,7 +1,6 @@
 <?php
 
-include_once "a_model.php";
-
+include_once "a_model.php"; // Hello
 class Books_model extends Model{
 
 	function __construct(){
